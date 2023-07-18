@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avifin19
-- 👀 I’m interested in Financial Economics & Asset Pricing
+- 👀 I’m interested in Machine Learning, Finance, NLP & Asset Pricing
 - 🌱 I’m currently pursuing PhD in Finance
-- 💞️ I’m looking to collaborate on Financial Research
+- 💞️ I’m looking to collaborate on Financial Research Projects
 - 📫 How to reach me : email me at avinash.kumar.pandey@emory.edu
 
 <!---
