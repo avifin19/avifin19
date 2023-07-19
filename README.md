@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avifin19
+- 👋 My name is Avinash Kumar Pandey
 - 👀 I’m interested in Machine Learning, Finance, NLP & Asset Pricing
 - 🌱 I’m currently pursuing PhD in Finance
 - 💞️ I’m looking to collaborate on Financial Research Projects
